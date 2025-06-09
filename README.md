@@ -195,10 +195,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Lucide](https://lucide.dev/) for the icon library
 - [Vercel](https://vercel.com/) for hosting and deployment
 
-## 📞 Support
-
-For support, email support@soleselect.com or create an issue in the GitHub repository.
-
 ---
 
 **SoleSelect** - Step Into Style 👟
