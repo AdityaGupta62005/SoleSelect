@@ -48,7 +48,7 @@ A modern, full-featured e-commerce platform for browsing, filtering, and purchas
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AdityaGupta62005/soleselect.git
+   git clone https://github.com/yourusername/soleselect.git
    cd soleselect
    ```
 
@@ -82,6 +82,13 @@ A modern, full-featured e-commerce platform for browsing, filtering, and purchas
 ### User Registration
 - Register with any valid email and password
 - All new registrations default to user role
+
+## 📁 Screenshots
+
+![Screenshot 2025-06-09 181630](https://github.com/user-attachments/assets/2f3023e7-cd9c-424b-aef2-66e88dd2d9ae)
+
+
+```
 
 ## 🎯 Key Components
 
@@ -187,13 +194,9 @@ The application can be deployed to any platform that supports Next.js:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## 📞 Support
 
-- [Next.js](https://nextjs.org/) for the amazing React framework
-- [Tailwind CSS](https://tailwindcss.com/) for utility-first styling
-- [shadcn/ui](https://ui.shadcn.com/) for beautiful UI components
-- [Lucide](https://lucide.dev/) for the icon library
-- [Vercel](https://vercel.com/) for hosting and deployment
+For support, email support@soleselect.com or create an issue in the GitHub repository.
 
 ---
 
