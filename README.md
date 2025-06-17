@@ -76,7 +76,7 @@ A modern, full-featured e-commerce platform for browsing, filtering, and purchas
 ## 🔑 Demo Credentials
 
 ### Admin Access
-- **Email**: admin@soleselect.com
+- **Email**: admin@gmail.com
 - **Password**: admin123
 
 ### User Registration
@@ -86,9 +86,14 @@ A modern, full-featured e-commerce platform for browsing, filtering, and purchas
 ## 📁 Screenshots
 
 ![Screenshot 2025-06-09 181630](https://github.com/user-attachments/assets/2f3023e7-cd9c-424b-aef2-66e88dd2d9ae)
+![Screenshot 2025-06-09 181700](https://github.com/user-attachments/assets/152cf321-0cb0-40ec-b8ce-662be02d6bc5)
+![Screenshot 2025-06-09 181732](https://github.com/user-attachments/assets/c8f38811-4741-4513-82ea-02ced8e45a24)
+![Screenshot 2025-06-09 181751](https://github.com/user-attachments/assets/c6f5a210-c7b6-4f45-95ed-5f46b5a4d549)
+![Screenshot 2025-06-09 182021](https://github.com/user-attachments/assets/ae93e3c7-62d5-4678-b2a0-94a9da0350d8)
+![Screenshot 2025-06-09 182504](https://github.com/user-attachments/assets/9524747e-02f4-464a-bf29-ddfda5bd8102)
+![Screenshot 2025-06-09 182639](https://github.com/user-attachments/assets/7f5cbbb8-2beb-4486-aac5-a18d7e519d05)
+![Screenshot 2025-06-09 182716](https://github.com/user-attachments/assets/503170e3-85a2-4c0d-9c53-681d27bc86ce)
 
-
-```
 
 ## 🎯 Key Components
 
@@ -201,18 +206,3 @@ For support, email support@soleselect.com or create an issue in the GitHub repos
 ---
 
 **SoleSelect** - Step Into Style 👟
-```
-
-This comprehensive README file provides:
-
-1. **Clear project overview** with all features listed
-2. **Complete installation instructions** for easy setup
-3. **Demo credentials** for testing both user and admin functionality
-4. **Detailed project structure** to help developers understand the codebase
-5. **Technical documentation** covering the tech stack and architecture
-6. **Deployment guidelines** for various platforms
-7. **Future roadmap** showing planned enhancements
-8. **Contributing guidelines** for open-source collaboration
-9. **Development best practices** and coding standards
-
-The README is structured to be helpful for both end users who want to run the application and developers who want to contribute to or understand the codebase.
